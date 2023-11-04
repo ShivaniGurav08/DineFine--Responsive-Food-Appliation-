@@ -41,10 +41,7 @@ navBar.forEach(function(a){
  });
 
 
-  function MyContact(){
-    alert("Welcome! Log in successfully!!");
-    
-  }
+
    
    
   function MyInfo(){
